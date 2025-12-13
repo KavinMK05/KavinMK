@@ -1,9 +1,6 @@
 # Kavin MK
 
-<div align="center">
-   
-   ![](https://leetcard.jacoblin.cool/KavinMK05?ext=heatmap)
-</div>
+
     
 <div align="center">
   <h3>Languages</h3>

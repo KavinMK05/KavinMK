@@ -1,4 +1,5 @@
 # Kavin MK
+👋 Hi I'm Kavin , I'm an indie full-stack software developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 
     
